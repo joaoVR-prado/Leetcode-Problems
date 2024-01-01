@@ -5,3 +5,5 @@
 [9. Palindrome Number](https://github.com/joaoVR-prado/Leetcode-Problems/blob/main/9.%20Palindrome%20Number/palindromeNumberKotlin.kts)
 
 [13. Roman to Integer](https://github.com/joaoVR-prado/Leetcode-Problems/blob/main/13.%20Roman%20to%20Integer/romanToIntegerKotlin.kts)
+
+[20. Valid Parentheses](https://github.com/joaoVR-prado/Leetcode-Problems/blob/main/20.%20Valid%20Parentheses/validParenthesesKotlin)
