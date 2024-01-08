@@ -14,6 +14,8 @@
 
 [1523. Count Odd Numbers in an Interval Range](https://github.com/joaoVR-prado/Leetcode-Problems/tree/main/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)
 
+[1929. Concatenation of Array](https://github.com/joaoVR-prado/Leetcode-Problems/tree/main/1929.%20Concatenation%20of%20Array)
+
 [2469. Convert the Temperature](https://github.com/joaoVR-prado/Leetcode-Problems/tree/main/2469.%20Convert%20the%20Temperature)
 
 [2769. Find the Maximum Achievable Number](https://github.com/joaoVR-prado/Leetcode-Problems/tree/main/2769.%20Find%20the%20Maximum%20Achievable%20Number)
